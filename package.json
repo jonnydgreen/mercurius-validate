@@ -39,7 +39,7 @@
     "@sinonjs/fake-timers": "^11.2.2",
     "@types/node": "^22.0.0",
     "@types/ws": "^8.5.10",
-    "@typescript-eslint/eslint-plugin": "^5.30.3",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
     "@typescript-eslint/parser": "^5.30.3",
     "autocannon": "^8.0.0",
     "concurrently": "^9.0.0",
